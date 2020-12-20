@@ -9,7 +9,6 @@ const knockJokes = {
   ],
 };
 
-let fullJoke = [];
 
 // Returns a random number
 const ranName = knockJokes.names[Math.floor(Math.random() * 5)];
